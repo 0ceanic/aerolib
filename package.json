@@ -1,0 +1,33 @@
+{
+  "name": "aerolib",
+  "version": "1.0.0",
+  "description": "JS library for the aviator",
+  "main": "index.js",
+  "dependencies": {
+    "console.table": "^0.7.0",
+    "geomagnetism": "0.0.2",
+    "moment": "^2.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node ./test.js",
+    "start": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0ceanic/plog.git"
+  },
+  "keywords": [
+    "pilot",
+    "log",
+    "plog",
+    "airplane",
+    "aviation"
+  ],
+  "author": "George V",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0ceanic/plog/issues"
+  },
+  "homepage": "https://github.com/0ceanic/plog#readme"
+}
